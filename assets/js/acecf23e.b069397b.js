@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfauziweb=self.webpackChunkfauziweb||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/fauziweb/blog","blogTitle":"Blog","authorsListPath":"/fauziweb/blog/authors"}')}}]);
